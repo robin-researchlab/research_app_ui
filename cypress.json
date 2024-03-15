@@ -1,0 +1,14 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "http://localhost:3000/",
+    "env" : {
+    "auth_url": "https://soptai-dev.us.auth0.com/oauth/token",
+    "create_user_url": "https://soptai-dev.us.auth0.com/api/v2/users",
+    "bearer_token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBLTThsOW9WSFRveGRjdkg3Qzl0UCJ9.eyJpc3MiOiJodHRwczovL3NvcHRhaS1kZXYudXMuYXV0aDAuY29tLyIsInN1YiI6ImpORlRmcjNwejlqMEE0UUVPN2JlcVQyZDFYS2VWNVBCQGNsaWVudHMiLCJhdWQiOiJodHRwczovL3NvcHRhaS1kZXYudXMuYXV0aDAuY29tL2FwaS92Mi8iLCJpYXQiOjE2MDI4MzQ4ODUsImV4cCI6MTYwMjkyMTI4NSwiYXpwIjoiak5GVGZyM3B6OWowQTRRRU83YmVxVDJkMVhLZVY1UEIiLCJzY29wZSI6InJlYWQ6dXNlcnMgdXBkYXRlOnVzZXJzIGRlbGV0ZTp1c2VycyBjcmVhdGU6dXNlcnMiLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMifQ.IMD9aVysHi-d280GWYFnKJ889cKHkDyRRhmm9LXilE16t3a8Ea2hnrJJf0kod6_hXUfrshj3NRutwrjP6O5_EiyXqudtQIaZ4H6yKj6PUPzyJ8Sc276jTKOYF_MRKewCK_38WXlyLJLdh_e-RR-4a7XFujqm3cRsNIQpBgZk5cipRJlmaxBfwEi85tyL5beeBhlwyYcJE2JxBUy6uBQg7022_UCG7AnRt5MMxrd31z28HGmJ1gATptGleXbF3ykpduNKmVeD44U03sGg15nRNMgQQaKYY9Uty0C_Yzn7_posXKWQ5SUJPOdnNVvB14-NlCT13DOvtqYAtgvqjfcSrw",
+    "auth_client_id": "jNFTfr3pz9j0A4QEO7beqT2d1XKeV5PB",
+    "auth_client_secret": "e2OB_gJzbcdbRDrsjLY5RXMVj8UBny1W9PE3YadfBW1JNhrc7HsoC7Gh3a2sAP39",
+    "auth_username": "e2etest1@soptai.sg",
+    "auth_password": "Soptai12345",
+    "auth_audience": "api-soptai-audience"
+    }
+}
