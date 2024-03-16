@@ -162,7 +162,7 @@
     "papaparse": "^5.3.2",
     "powerbi-client": "^2.21.1",
     "resize-detector": "^0.1.10",
-    "vue": "^2.6.11",
+    "vue": "^2.7.16",
     "vue-class-component": "^7.2.5",
     "vue-echarts": "^4.0.2",
     "vue-i18n": "^8.22.3",
