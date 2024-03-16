@@ -171,7 +171,7 @@
     "vue-vis-network": "^1.0.2",
     "vue2-editor": "^2.10.3",
     "vuedraggable": "^2.24.3",
-    "vuetify": "^2.2.11 <=2.3.7",
+    "vuetify": "^2.7.2",
     "vuetify-datetime-picker": "^2.1.1",
     "vuex": "^3.4.0"
   },
