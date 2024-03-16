@@ -143,7 +143,7 @@
   },
   "dependencies": {
     "@ag-grid-enterprise/set-filter": "^30.0.6",
-    "@auth0/auth0-spa-js": "^1.8.1",
+    "@auth0/auth0-spa-js": "^1.22.6",
     "@mdi/font": "^5.3.45",
     "ag-grid-community": "^28.0.2",
     "ag-grid-enterprise": "^28.0.2",
