@@ -149,7 +149,7 @@
     "ag-grid-enterprise": "^28.0.2",
     "ag-grid-vue": "^28.0.0",
     "axios": "^0.19.2",
-    "core-js": "^3.4.4",
+    "core-js": "^3.36.0",
     "cors": "^2.8.5",
     "cron-validate": "^1.3.1",
     "cronstrue": "^1.101.0",
